@@ -3,6 +3,7 @@
 ## Requirements
 - PHP 8.1+
 - Laravel 10+
+- Vue 3+
 
 ## Installation
 2. Clone repository from git
