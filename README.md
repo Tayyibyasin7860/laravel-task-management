@@ -18,15 +18,15 @@
 
 
 5. Update the `.env` file with your database credentials and other settings:
-   **DB_DATABASE=your_database_name
-   DB_USERNAME=your_database_username
+   **DB_DATABASE=your_database_name, 
+   DB_USERNAME=your_database_username, 
    DB_PASSWORD=your_database_password**
 
 6. Run database migrations and seeders: **php artisan migrate --seed**
 
 
 7. Install NPM dependencies and build assets:
-   **npm install
+   **npm install, 
    npm run build**
 8. Start the development server: **php artisan serve**
 10. Open the application in your browser: **http://localhost:8000/**
